@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T17:02:34.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2TO22zKBaUoOZmluw28B" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T07:51:58.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1GZVG9vQWsnuu55kLfWS" version="21.2.9" type="github">
   <diagram name="Page-1" id="iBfRw5HTF6hHkQwbkQXA">
-    <mxGraphModel dx="1702" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1702" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,13 +81,13 @@
         <mxCell id="hxzqd37WvZ4zt7qAIJqa-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/SQL_Data_Warehouses.svg;" parent="hxzqd37WvZ4zt7qAIJqa-36" vertex="1">
           <mxGeometry x="133.4794952681388" y="51.37362637362637" width="61.70819656533942" height="62.672387136672846" as="geometry" />
         </mxCell>
-        <mxCell id="hxzqd37WvZ4zt7qAIJqa-39" value="React SPA" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg;" parent="1" vertex="1">
+        <mxCell id="hxzqd37WvZ4zt7qAIJqa-39" value="React " style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg;" parent="1" vertex="1">
           <mxGeometry x="373" y="262" width="69.85" height="62" as="geometry" />
         </mxCell>
         <mxCell id="hxzqd37WvZ4zt7qAIJqa-3" value="API&amp;nbsp;&lt;br&gt;App Service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Web_Environment.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="584.85" y="144.09" width="48.3" height="49.81" as="geometry" />
         </mxCell>
-        <mxCell id="hxzqd37WvZ4zt7qAIJqa-43" value="FastAPI REST" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:700/1*du7p50wS_fIsaC_lR18qsg.png;clipPath=inset(14.81% 69.33% 19.44% 6.67%);" parent="1" vertex="1">
+        <mxCell id="hxzqd37WvZ4zt7qAIJqa-43" value="FastAPI" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:700/1*du7p50wS_fIsaC_lR18qsg.png;clipPath=inset(14.81% 69.33% 19.44% 6.67%);" parent="1" vertex="1">
           <mxGeometry x="558" y="227.46" width="106.5" height="105.01" as="geometry" />
         </mxCell>
         <mxCell id="hxzqd37WvZ4zt7qAIJqa-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="hxzqd37WvZ4zt7qAIJqa-54" edge="1">
