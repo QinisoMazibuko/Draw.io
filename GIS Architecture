@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T08:11:13.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cL2rTNANf8eBCyLdsUQO" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T08:13:31.723Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pugYqAwvmGJN6t2CcdsF" version="21.2.9" type="github">
   <diagram name="Page-1" id="517ae-PceGcGIIiRyVkG">
-    <mxGraphModel dx="1352" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1669" dy="1111" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="unzmo4md08VCJ2d_CFEU-1" value="DEV-GIS Server&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="unzmo4md08VCJ2d_CFEU-1" value="DEV-ArcGIS enterprise server" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="-367" y="-64" width="350" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="unzmo4md08VCJ2d_CFEU-2" value="SIT-GIS Server&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="unzmo4md08VCJ2d_CFEU-2" value="SIT-ArcGIS enterprise server&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="31" y="-64" width="350" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="unzmo4md08VCJ2d_CFEU-3" value="PRD-GIS Server&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="unzmo4md08VCJ2d_CFEU-3" value="PRD-ArcGIS enterprise server" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="414" y="-64" width="350" height="385" as="geometry" />
         </mxCell>
         <mxCell id="unzmo4md08VCJ2d_CFEU-4" value="Server Properties" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
