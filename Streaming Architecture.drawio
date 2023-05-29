@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T18:59:25.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Lw4VM7Rd8WKr5-MWtQNg" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T18:09:25.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Osh4qfacUsZHpzroGJqO" version="21.3.2" type="github">
   <diagram name="Page-1" id="1TySNdG3bFcOM_l2DXkI">
     <mxGraphModel dx="1432" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YjRzb2UiDKBcbRBRFE_A-1" value="Blob Storage&amp;nbsp;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Container.svg;" vertex="1" parent="1">
-          <mxGeometry x="229" y="644.61" width="86.62" height="70.38" as="geometry" />
+          <mxGeometry x="229" y="651.49" width="72.62" height="59" as="geometry" />
         </mxCell>
         <mxCell id="YjRzb2UiDKBcbRBRFE_A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YjRzb2UiDKBcbRBRFE_A-2">
           <mxGeometry relative="1" as="geometry">
